@@ -1,0 +1,3 @@
+[submodule "Ride-Sharing-App"]
+	path = Ride-Sharing-App
+	url = https://github.com/pnchinmay/Ride-Sharing-App.git
